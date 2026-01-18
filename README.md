@@ -1,7 +1,7 @@
 Hi, I’m Aditya Bodke
 
 I’m a professional web developer focused on building modern, high-performance websites with clean code and engaging user experiences.
-
+____________________________________________________________________________________________________________________________________________
 🚀 What I Do
 
 🌐 Full-stack web development
@@ -11,6 +11,7 @@ I’m a professional web developer focused on building modern, high-performance 
 🎨 Smooth, interactive website animations
 
 🧠 AI Prompt Engineer (LLMs & AI workflows)
+______________________________________________________________________________________________________________________________________________
 
 🛠 Tech Stack
 
@@ -23,6 +24,7 @@ Node.js
 AI APIs & Automation
 
 GSAP / Framer Motion / Web Animations
+____________________________________________________________________________________________________________________________________________________
 
 📫 Let’s Connect
 
