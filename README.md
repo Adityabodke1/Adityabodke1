@@ -35,7 +35,6 @@ ________________________________________________________________________________
 
 🌐 Portfolio
 
-Aditya Bodke
 Explore my projects, skills, and work experience here:
 
 👉 : https://adityabodke.netlify.app
